@@ -3,11 +3,13 @@ using namespace std;
 
 class book 
 {
-public:
+private:
 
 string title;
 string author;
 float price;
+
+public:
 
 book()
 {
