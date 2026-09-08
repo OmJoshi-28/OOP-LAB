@@ -38,12 +38,12 @@ int main()
 book b1;
 book b2("The Alchemist", "Poulo Coelho", 599.9);
 
-cout<<"book 1 (defult)";
+cout<<"book 1 (defult)"<<endl;
 b1.disp();
 
 cout <<"_____________________________________________"<<endl<<endl;
 
-cout<<"book 2 (complete)";
+cout<<"book 2 (complete)"<<endl;
 b2.disp();
 
 return 0;
